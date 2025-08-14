@@ -22,6 +22,23 @@ This project implements a GRU-based deep learning model to estimate 3D human joi
 
 ---
 
+---
+
+## ​ Dataset
+The **ITOP (Indoor Training and Outdoor Testing) Dataset** contains depth images and 3D ground truth joint positions for multiple subjects from a side view.
+
+📥 **Download Link**: [Zenodo – ITOP Dataset](https://zenodo.org/records/3932973)
+
+> ⚠️ The dataset is not included in this repository due to GitHub file size limits.
+
+---
+
+## ​ How to Run
+1. **Clone this repository**
+```bash
+git clone https://github.com/YOUR_USERNAME/3D-Pose-Estimation-GRU.git
+cd 3D-Pose-Estimation-GRU
+
 ## 📂 Project Structure
 │
 ├── 3d_pose_estimation.ipynb # Main Jupyter Notebook
